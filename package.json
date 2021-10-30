@@ -1,0 +1,28 @@
+{
+	"name": "socketio",
+	"version": "1.0.0",
+	"description": "\"# socketio-yt\"",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Eric-Alarcon441/socketio-yt.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Eric-Alarcon441/socketio-yt/issues"
+	},
+	"homepage": "https://github.com/Eric-Alarcon441/socketio-yt#readme",
+	"dependencies": {
+		"express": "^4.17.1",
+		"socket.io": "^4.3.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.14"
+	}
+}
